@@ -83,6 +83,12 @@ composer create-project mineadmin/mineadmin --keep-vcs
 [体验地址](https://demo.mineadmin.com)
 - 账号：superAdmin
 - 密码：admin123
+  
+在线demo中开起了租户模式（多租户插件仅支持3.0）使用下面账号密码登录
+- 租户：MineAdmin
+- 账号：Admin
+- 密码：123456
+[租户模式介绍](https://www.mineadmin.com/store/mine-admin~tenant)
 
 > 请勿添加脏数据
 
